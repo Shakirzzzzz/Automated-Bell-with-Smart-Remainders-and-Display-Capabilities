@@ -1,0 +1,2 @@
+source /home/shuku/Projects/Time-Table_Storage/build/bootloader/gdbinit/symbols
+source /home/shuku/Projects/Time-Table_Storage/build/bootloader/gdbinit/connect
